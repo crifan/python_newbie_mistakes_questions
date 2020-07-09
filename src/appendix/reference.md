@@ -1,0 +1,38 @@
+# 参考资料
+
+* [学习方法思路及技术心得总结](https://crifan.github.io/learn_tech_method_experience/website/)
+* [【提醒】Python新手开发人员注意事项：不要故意用错误的写法而应该用正确标准的写法](http://www.crifan.com/python_newbie_should_not_wrong_style_use_standard_style)
+* [【提醒】Python新手开发人员注意事项：不要误输入中文标点符号 – 在路上](https://www.crifan.com/python_newbie_zhcn_char_as_identifier_should_change_to_english_char/)
+* [【提醒】Python新手开发人员注意事项：测试文件名不要和导入的库同名 – 在路上](https://www.crifan.com/python_newbie_debug_file_name_not_same_with_lib_name_to_test/)
+* [【整理】关于Python脚本开头两行的：#!/usr/bin/python和# -*- coding: utf-8 -*-的作用 – 指定文件编码类型 – 在路上](https://www.crifan.com/python_head_meaning_for_usr_bin_python_coding_utf-8/)
+* 
+* 【已解决】mac中pip安装Python库tushare
+* 
+* [关于Python pyecharts 的问题（已经找资料找了半天了）-CSDN论坛](https://bbs.csdn.net/topics/396136267?page=1#post-410978309)
+* [30分钟学会pyecharts数据可视化 - 知乎](https://zhuanlan.zhihu.com/p/63236019)
+* [Documentation - pyecharts-en](https://pyecharts.readthedocs.io/en/latest/en-us/documentation/#wordcloud)
+* [小白遇到一个关于Pycharm中 Tkinter问题-CSDN论坛](https://bbs.csdn.net/topics/392593162)
+* [Tk图形用户界面(GUI) — Python 3.8.2 文档](https://docs.python.org/zh-cn/3/library/tk.html)
+* [tkinter --- Tcl/Tk的Python接口 — Python 3.8.2 文档](https://docs.python.org/zh-cn/3/library/tkinter.html#tkinter-modules)
+* [tkinter — Python interface to Tcl/Tk — Python 3.8.2 documentation](https://docs.python.org/3/library/tkinter.html)
+* [Python GUI 编程(Tkinter) | 菜鸟教程](https://www.runoob.com/python/python-gui-tkinter.html)
+* [Python - Tkinter Label - Tutorialspoint](https://www.tutorialspoint.com/python/tk_label.htm)
+* [Tkinter教程之Label篇_Python_灵蛇舞动-CSDN博客](https://blog.csdn.net/jcodeer/article/details/1811293)
+* [Label & Button 标签和按钮 - 窗口 Tkinter | 莫烦Python](https://morvanzhou.github.io/tutorials/python-basic/tkinter/2-01-label-button/)
+* [tkinter.ttk --- Tk主题小部件 — Python 3.8.2 文档](https://docs.python.org/zh-cn/3/library/tkinter.ttk.html#label-options)
+* [求助！！！正则表达式是正确的，但是程序无法运行-CSDN论坛](https://bbs.csdn.net/topics/396092185)
+* [初学者，照着老师的编码打的一样，运行错误-CSDN论坛](https://bbs.csdn.net/topics/395827505)
+* [Qpython3-CSDN论坛](https://bbs.csdn.net/topics/395926666)
+* [内置类型 — Python 3.8.2rc2 文档](https://docs.python.org/zh-cn/3/library/stdtypes.html#old-string-formatting)
+* [Tushare -财经数据接口包](http://tushare.org/)
+* [pycharm 导入tushare错误，请帮帮忙，百度半天也没搞定-CSDN论坛](https://bbs.csdn.net/topics/392233758)
+* [关于tushare python的问题。-CSDN论坛](https://bbs.csdn.net/topics/392046043)
+* [AttributeError: module ‘tushare’ has no attribute ‘__version__’ · Issue #241 · waditu/tushare · GitHub](https://www.crifan.com/python_newbie_debug_file_name_not_same_with_lib_name_to_test/)
+* [在策略模块定义函数引用tushare pro – VincentZHOU – JoinQuant](https://www.joinquant.com/view/community/detail/f2a4717c09630f6adcbae3090ad412e4?type=2)
+* [Pygame has no attribute key-CSDN论坛](https://bbs.csdn.net/topics/395849077)
+* [制作数据集时报错AttributeError: 'str' object has no attribute 'write'-CSDN论坛](https://bbs.csdn.net/topics/395845149)
+* [tf.data.experimental.TFRecordWriter  |  TensorFlow Core v2.1.0](https://www.tensorflow.org/api_docs/python/tf/data/experimental/TFRecordWriter)
+* [tf.io.TFRecordWriter  |  TensorFlow Core v2.1.0](https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter)
+* [大家觉得国内比较好的技术社区有哪些，优缺点是什么？ - 知乎](https://www.zhihu.com/question/28884567)
+* [码农10年，我常去的一些技术社区 - 简书](https://www.jianshu.com/p/c922cab0ee71)
+* 
