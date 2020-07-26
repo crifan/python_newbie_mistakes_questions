@@ -14,7 +14,7 @@ csdn中粘贴代码的核心逻辑是：
 
 确保输入的内容是符合下面这种格式：
 
-```md
+```markdown
 [code=python]此处粘贴你的代码即可[/code]
 ```
 
@@ -32,7 +32,7 @@ csdn中粘贴代码的核心逻辑是：
 
 其实就是普通的文字，文本，自己输入：
 
-```md
+```markdown
 [code=python][/code]
 ```
 
@@ -52,7 +52,7 @@ csdn中粘贴代码的核心逻辑是：
     * `[code=python][/code]`
   * 再粘贴代码到里面：
     * 比如：
-      ```md
+      ```markdown
       [code=python]
       import sys
       print("sys.executable=%s" % sys.executable)

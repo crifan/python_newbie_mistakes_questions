@@ -13,6 +13,7 @@
   * [函数参数](language_basic/function_parameter.md)
   * [代码注释](language_basic/code_comment.md)
 * [Python常见问题](python_related/README.md)
+  * [系统终端和Python shell](python_related/sys_terminal_py_shell.md)
   * [字符编码问题](python_related/str_encoding.md)
   * [文件顶部注释](python_related/head_comment.md)
   * [文件打开问题](python_related/file_open.md)

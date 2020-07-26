@@ -35,4 +35,6 @@
 * [tf.io.TFRecordWriter  |  TensorFlow Core v2.1.0](https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter)
 * [大家觉得国内比较好的技术社区有哪些，优缺点是什么？ - 知乎](https://www.zhihu.com/question/28884567)
 * [码农10年，我常去的一些技术社区 - 简书](https://www.jianshu.com/p/c922cab0ee71)
+* [window中的cmd中设置别名(alias)及设置快捷键打开cmd_waywaywayw的博客-CSDN博客_windows alias](https://blog.csdn.net/YiRanZhiLiPoSui/article/details/83116819)
+* [在 Windows 10中，打开命令提示的10方法_苹果iPhone_酷徒](https://www.kutu66.com/iPhone/article_11658])
 * 
