@@ -2,6 +2,9 @@
 
 * [前言](README.md)
 * [背景](background/README.md)
+* [电脑基础知识](computer_basic/README.md)
+  * [文件后缀名](computer_basic/file_suffix/README.md)
+    * [显示文件后缀名](computer_basic/file_suffix/display_file_suffix.md)
 * [编程语言基础问题](language_basic/README.md)
   * [变量名非法](language_basic/invalid_name/README.md)
     * [中文字符导致出错](language_basic/invalid_name/zhcn_char.md)

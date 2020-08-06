@@ -37,4 +37,5 @@
 * [码农10年，我常去的一些技术社区 - 简书](https://www.jianshu.com/p/c922cab0ee71)
 * [window中的cmd中设置别名(alias)及设置快捷键打开cmd_waywaywayw的博客-CSDN博客_windows alias](https://blog.csdn.net/YiRanZhiLiPoSui/article/details/83116819)
 * [在 Windows 10中，打开命令提示的10方法_苹果iPhone_酷徒](https://www.kutu66.com/iPhone/article_11658])
+* [Windows 7系统下如何现实文件扩展名](https://cn.answers.acer.com/app/answers/detail/a_id/15123/~/windows-7系统下如何现实文件扩展名)
 * 
