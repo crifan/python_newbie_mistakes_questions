@@ -42,5 +42,9 @@
 * 类型是`应用程序`的`restarter`
     * -> `restarter.exe`
 
-关于如何显示文件的后缀名，详见后续整理。
+关于如何显示文件的后缀名：
+
+Win10中，`资源管理器`->`查看`->勾选 或 取消勾选 `文件扩展名`，即可。
+
+更多细节详见：[显示文件后缀名 · 计算机电脑知识总结](https://book.crifan.com/books/computer_tech_summary/website/common/file_folder/display_file_suffix.html)
 
