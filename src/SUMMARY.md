@@ -16,6 +16,7 @@
   * [函数参数](language_basic/function_parameter.md)
   * [代码注释](language_basic/code_comment.md)
 * [Python常见问题](python_related/README.md)
+  * [input返回值是字符串](python_related/input_return_str.md)
   * [Python的shell不是系统终端](python_related/py_shell_not_terminal/README.md)
     * [Python的shell和系统的终端](python_related/py_shell_not_terminal/sys_terminal_py_shell.md)
   * [字符编码问题](python_related/str_encoding.md)
